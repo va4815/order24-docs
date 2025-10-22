@@ -9,3 +9,5 @@ The cloud-hosted control plane operated by the product owner. Platform administr
 ### Merchant
 An on-premises, merchant-hosted server that runs day-to-day restaurant operations, including menu setup, ordering, and kitchen workflows.
 
+
+![alt text](/images/readme_img1.png)
